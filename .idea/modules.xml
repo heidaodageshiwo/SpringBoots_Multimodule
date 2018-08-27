@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/idea_springboots_git_Multimoduls_0000.iml" filepath="$PROJECT_DIR$/idea_springboots_git_Multimoduls_0000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm-entity/mm-entity.iml" filepath="$PROJECT_DIR$/mm-entity/mm-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm-repo/mm-repo.iml" filepath="$PROJECT_DIR$/mm-repo/mm-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm-service/mm-service.iml" filepath="$PROJECT_DIR$/mm-service/mm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm-web/mm-web.iml" filepath="$PROJECT_DIR$/mm-web/mm-web.iml" />
+    </modules>
+  </component>
+</project>
